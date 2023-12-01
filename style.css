@@ -789,7 +789,7 @@ footer {
   }
 }
 
-@media screen and (max-width: 300px){
+@media screen and (max-width:300px){
 
     .input-with-label {
         width: 230px;
@@ -830,5 +830,5 @@ footer {
         margin-left: -7rem;
         text-align: left;
     }
+  }
 
-}
