@@ -649,7 +649,7 @@ footer {
   .input-with-buttton {
     border-radius: 12px;
     display: flex;
-    width: 100%;
+    /* width: 100%; */
     justify-content: space-between;
     align-items: center;
     /* margin-left: 3rem; */
