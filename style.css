@@ -198,6 +198,7 @@ header {
   font-weight: 500;
   outline: none;
   border: none;
+  width: 100%;
   text-align: left;
 }
 
